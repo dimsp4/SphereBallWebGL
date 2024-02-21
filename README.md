@@ -1,4 +1,4 @@
-![Screenshot Sphere App](public\spherewebss.png)
+![Screenshot Sphere App](./public/spherewebss.png)
 # Sphere Ball WebGL
 to run this app, run these;
 ```bash
